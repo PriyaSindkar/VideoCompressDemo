@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/Clip.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/FfmpegController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/ShellUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/filters" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/net" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/org" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/pexample/videocompressdemo/test" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
